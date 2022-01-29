@@ -1,0 +1,2 @@
+BOTNAME = "@FastGroupManagementBot"
+TOEKN = "5223814916:AAFFbc5LR94uaRh8lXCDrudY-uX1IyXbbHQ"
